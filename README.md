@@ -17,8 +17,6 @@ The serach app can find any book from google by typing a name in search field.
 
 - [Usage](#usage)
 
-- [License](#license)
-
 - [Contributing](#contributing)
 
 ## Installation
@@ -37,9 +35,3 @@ Run "npm start" to start the server localhost:3000
 ## Contributing
 
 [FullStackable]('https://github.com/cynmojica1231/Homework21')
-
-## Tests
-
-To run tests, run the following command:
-​
-npm test
