@@ -2,7 +2,7 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![FullStackable](googlebook.png)
+![Photo](googlebook.png)
 
 ## Description
 
@@ -33,11 +33,10 @@ npm install
 Run "npm start" to start the server localhost:3000
 
 ## Demo
+
 ​
 To see my work: https://google-search-cm.herokuapp.com/
 
-
-
 ## Contributing
 
-[FullStackable]('https://github.com/cynmojica1231/Homework21')
+![FullStackable]('https://github.com/cynmojica1231/Homework21')
