@@ -1,6 +1,6 @@
 # GOOGLE Books Search
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ![FullStackable](googlebook.png)
 
@@ -21,10 +21,6 @@ The serach app can find any book from google by typing a name in search field.
 
 - [Contributing](#contributing)
 
-- [Tests](#tests)
-
-- [Questions](#questions)
-
 ## Installation
 
 ​
@@ -37,26 +33,13 @@ npm install
 
 ​
 Run "npm start" to start the server localhost:3000
-​
-
-## Demo
-
-​
-To see my work:
-
-## License
-
-​
-This project is licensed under the MIT license.
 
 ## Contributing
 
-​
 [FullStackable]('https://github.com/cynmojica1231/Homework21')
 
 ## Tests
 
-​
 To run tests, run the following command:
 ​
 npm test
