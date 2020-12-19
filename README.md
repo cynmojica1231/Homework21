@@ -39,4 +39,4 @@ To see my work: https://google-search-cm.herokuapp.com/
 
 ## Contributing
 
-(https://github.com/cynmojica1231/Homework21)
+Github: https://github.com/cynmojica1231/Homework21
