@@ -37,7 +37,7 @@ Run "npm start" to start the server localhost:3000
 
 ## Demo
 ​
-To see my work: https://ucf-google-book.herokuapp.com
+To see my work: 
 
 
 ## License
@@ -46,16 +46,11 @@ This project is licensed under the MIT license.
   
 ## Contributing
 ​
-[FullStackable]('https://github.com/FullStackable') 
+[FullStackable]('https://github.com/cynmojica1231/Homework21') 
 
 ## Tests
 ​
 To run tests, run the following command:
 ​
 npm test
-​
-## Questions
-​
-<img src="https://avatars1.githubusercontent.com/u/7883863?v=4" alt="avatar" style="border-radius: 16px" width="30" />
 
-If you have any questions about the repo, open an issue or contact [FullStackable](https://github.com/FullStackable) directly at .
