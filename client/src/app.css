@@ -1,0 +1,30 @@
+body {
+  font-family: "Noto Sans JP", sans-serif !important;
+  background-color: #864c4c;
+  color: #864c4c !important;
+}
+
+.btn {
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.btn:hover {
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.form-control {
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.FormBtn {
+  box-shadow: none !important;
+}
+
+.btn:focus {
+  background-color: #fff !important;
+  color: #121212 !important;
+  cursor: pointer !important;
+}
